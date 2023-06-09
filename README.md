@@ -27,8 +27,8 @@ To use this search application, follow these steps:
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/your-username/search-application.git
+   ```bash
+   $ git clone https://github.com/wangyuhsin/search-application.git
    ```
 
 2. Install the required dependencies. The application requires Python 3 and the following libraries:
