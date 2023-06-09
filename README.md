@@ -9,7 +9,9 @@ This repository contains a search application implemented in Python. The applica
 - [Usage](#usage)
 - [Search Implementations](#search-implementations)
 - [File Descriptions](#file-descriptions)
+- [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -64,6 +66,11 @@ To use the search application, follow these steps:
    - `myhtable` for hash table-based search
 
    Replace `<root-directory>` with the path to the directory containing the text files to be searched.
+   
+   For example:
+   ```bash
+   $ python search.py myhtable ~/data/slate
+   ```
 
 4. Follow the prompts to enter search terms and view the results.
 
@@ -92,8 +99,15 @@ The repository includes the following files:
 - `search.py`: Provides a command-line interface for executing the search algorithms. It accepts the search type (linear, index, or myhtable) and the root directory to search in.
 
 
+## Contributing
+
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
 ## License
 
-The search application is released under the MIT License. You can find the details in the `LICENSE` file.
+The search application is released under the MIT License. You can find the details in the `LICENSE` file. Feel free to use and modify the search application according to your needs. Happy searching!
 
-Feel free to use and modify the search application according to your needs. Happy searching!
+## Acknowledgments
+
+The initial codebase and project structure is adapted from the MSDS 692 course materials provided by the University of San Francisco (USFCA-MSDS). Special thanks to the course instructors for the inspiration.
