@@ -10,7 +10,6 @@ This repository contains a search application implemented in Python. The applica
 - [Usage](#usage)
 - [Search Implementations](#search-implementations)
 - [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
