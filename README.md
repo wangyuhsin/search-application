@@ -99,12 +99,6 @@ The repository includes the following files:
 - `myhtable_search.py`: Uses the hashtable implementation from `htable.py` to build an index and perform search operations.
 - `search.py`: Provides a command-line interface for executing the search algorithms. It accepts the search type (linear, index, or myhtable) and the root directory to search in.
 
-
-## Contributing
-
-Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-
 ## License
 
 The search application is released under the MIT License. You can find the details in the `LICENSE` file. Feel free to use and modify the search application according to your needs. Happy searching!
