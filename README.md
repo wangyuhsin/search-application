@@ -1,4 +1,5 @@
 # Search Application
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains a search application implemented in Python. The application allows users to search for specific terms within a collection of text files and retrieve relevant results. It provides different search implementations, including linear search, index-based search, and hash table-based search, offering flexibility and efficiency in finding matching documents.
 
